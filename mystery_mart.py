@@ -5,9 +5,11 @@
 #Import Functions
 import random
 import time
+from math import ceil
 
 #Giving cash value a random number between 0.00 - 1000.00
 cash_value = random.uniform(0.00, 1000.00)
+
 
 
 # If cash_value great then 0 but less the 100 then...
