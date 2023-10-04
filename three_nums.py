@@ -16,6 +16,6 @@ smallest = min(num1, num2, num3)
 
 # Print the results
 print()
-print(f"The total is {average}")
+print(f"The average is {average}")
 print(f"The biggest integer is {biggest}")
 print(f"The smallest integer is {smallest}")
